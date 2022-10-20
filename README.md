@@ -2,7 +2,7 @@
 
 ## Slides in Beamer
 
-%[Link to my Beamer slides]()
+[Link to my Beamer slides](https://mcreagar2.github.io/stat850-homework10/main.pdf)
 
 ## Slides in reveal.js
 
